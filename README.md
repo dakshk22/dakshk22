@@ -29,6 +29,7 @@
 <p align="left">
 <a href="https://www.behance.net/dakshk22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dakshk22" height="30" width="40" /></a>
 <a href="https://medium.com/@dakshk22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dakshk22" height="30" width="40" /></a>
+  <a herf="https://dakshk22.github.io/dax_portfolio/"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
