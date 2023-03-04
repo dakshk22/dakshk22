@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daksh kumar</h1>
 <h3 align="center">A Data enthusiast from uttarakhand,India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<meta name="google-site-verification" content="BaekCxS-ef_HeN98WtRLsab5erp2QpL7hF6xV3einSY" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshk22&label=Profile%20views&color=0e75b6&style=flat" alt="dakshk22" /> </p>
 
